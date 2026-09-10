@@ -1,0 +1,280 @@
+{
+  "fetched_at": "2026-09-10T08:01:05.024736+00:00",
+  "params": {
+    "engine": "google_scholar_author",
+    "hl": "en",
+    "author_id": "RlAdMyYAAAAJ",
+    "sort": "pubdate",
+    "output": "json",
+    "source": "python"
+  },
+  "results": {
+    "search_metadata": {
+      "id": "6aa263c012481593ebf2c715",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/7gIyhhlWzbGAFIGoFvEvemTW87QHSTiC26qBZSItAZI/6aa263c012481593ebf2c715.json",
+      "markdown_endpoint": "https://serpapi.com/searches/7gIyhhlWzbGAFIGoFvEvemTW87QHSTiC26qBZSItAZI/6aa263c012481593ebf2c715.md",
+      "created_at": "2026-09-10 08:01:04 UTC",
+      "processed_at": "2026-09-10 08:01:04 UTC",
+      "google_scholar_author_url": "https://scholar.google.com/citations?user=RlAdMyYAAAAJ&hl=en&sortby=pubdate",
+      "raw_html_file": "https://serpapi.com/searches/7gIyhhlWzbGAFIGoFvEvemTW87QHSTiC26qBZSItAZI/6aa263c012481593ebf2c715.html",
+      "total_time_taken": 0.26
+    },
+    "search_parameters": {
+      "engine": "google_scholar_author",
+      "author_id": "RlAdMyYAAAAJ",
+      "hl": "en",
+      "sort": "pubdate"
+    },
+    "author": {
+      "name": "Yuhao Wu",
+      "affiliations": "Wuhan University",
+      "email": "Verified email at whu.edu.cn",
+      "website": "http://wuyuhao.top/",
+      "interests": [
+        {
+          "title": "remote sensing hydrology",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:remote_sensing_hydrology",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aremote_sensing_hydrology"
+        },
+        {
+          "title": "hydrogeodesy",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:hydrogeodesy",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahydrogeodesy"
+        },
+        {
+          "title": "hydrometeorology",
+          "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:hydrometeorology",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahydrometeorology"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RlAdMyYAAAAJ&citpid=1"
+    },
+    "articles": [
+      {
+        "title": "A first attempt at reconstructing FengYun‐4B stratified precipitable water using GNSS",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:8k81kl-MbHgC",
+        "citation_id": "RlAdMyYAAAAJ:8k81kl-MbHgC",
+        "authors": "Y Wu, B Zhang, Y Yao, H Li, Q Chen",
+        "publication": "Geophysical Research Letters 53 (10), e2026GL122585, 2026",
+        "cited_by": {
+          "value": null
+        },
+        "year": "2026"
+      },
+      {
+        "title": "Shipborne GNSS water vapor anomaly diagnosis and its response to typhoons Saola and Haikui",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:W7OEmFMy1HYC",
+        "citation_id": "RlAdMyYAAAAJ:W7OEmFMy1HYC",
+        "authors": "R Jia, N Jiang, Y Xu, Y Wu, Z Li, T Xu",
+        "publication": "Advances in Space Research 75 (7), 5374-5385, 2025",
+        "cited_by": {
+          "value": 2,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18380252947199517287",
+          "serpapi_link": "https://serpapi.com/search.json?cites=18380252947199517287&engine=google_scholar&hl=en",
+          "cites_id": "18380252947199517287"
+        },
+        "year": "2025"
+      },
+      {
+        "title": "Revealing the water vapor transport during the Henan “7.20” heavy rainstorm based on ERA5 and Real-Time GNSS",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:IjCSPb-OGe4C",
+        "citation_id": "RlAdMyYAAAAJ:IjCSPb-OGe4C",
+        "authors": "Y Wu, N Jiang, Y Xu, TK Yeh, A Guo, T Xu, S Li, Z Gao",
+        "publication": "The Egyptian Journal of Remote Sensing and Space Sciences 27 (2), 165-177, 2024",
+        "cited_by": {
+          "value": 10,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16231285277775862073",
+          "serpapi_link": "https://serpapi.com/search.json?cites=16231285277775862073&engine=google_scholar&hl=en",
+          "cites_id": "16231285277775862073"
+        },
+        "year": "2024"
+      },
+      {
+        "title": "First PWV retrieval using MERSI‐LL onboard FY‐3E and cross validation with co‐platform occultation and ground GNSS",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:UeHWp8X0CEIC",
+        "citation_id": "RlAdMyYAAAAJ:UeHWp8X0CEIC",
+        "authors": "N Jiang, Y Wu, S Li, Y Xu, Y Wang, T Xu",
+        "publication": "Geophysical Research Letters 51 (8), e2024GL108681, 2024",
+        "cited_by": {
+          "value": 14,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1258021184056475041",
+          "serpapi_link": "https://serpapi.com/search.json?cites=1258021184056475041&engine=google_scholar&hl=en",
+          "cites_id": "1258021184056475041"
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Tightly coupled tomography model for atmospheric water vapor based on multisource remote-sensing and GNSS data",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:zYLM7Y9cAGgC",
+        "citation_id": "RlAdMyYAAAAJ:zYLM7Y9cAGgC",
+        "authors": "S Li, N Jiang, T Xu, H Yang, A Guo, Y Wu, Y Xu",
+        "publication": "IEEE Transactions on Geoscience and Remote Sensing 62, 1-16, 2024",
+        "cited_by": {
+          "value": 9,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=246808836618713437",
+          "serpapi_link": "https://serpapi.com/search.json?cites=246808836618713437&engine=google_scholar&hl=en",
+          "cites_id": "246808836618713437"
+        },
+        "year": "2024"
+      },
+      {
+        "title": "An improved model for the retrieval of precipitable water vapor in all-weather conditions (RCMNT) based on NIR and TIR recordings of MODIS",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:2osOgNQ5qMEC",
+        "citation_id": "RlAdMyYAAAAJ:2osOgNQ5qMEC",
+        "authors": "Y Wang, N Jiang, Y Wu, Y Xu, H Kaufmann, T Xu",
+        "publication": "IEEE Transactions on Geoscience and Remote Sensing 62, 1-12, 2024",
+        "cited_by": {
+          "value": 10,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13812738623818324993",
+          "serpapi_link": "https://serpapi.com/search.json?cites=13812738623818324993&engine=google_scholar&hl=en",
+          "cites_id": "13812738623818324993"
+        },
+        "year": "2024"
+      },
+      {
+        "title": "Co-seismic characterization analysis in PWV and land-atmospheric observations associated with Luding Ms 6.8 earthquake occurrence in China on September 5, 2022",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:Tyk-4Ss8FVUC",
+        "citation_id": "RlAdMyYAAAAJ:Tyk-4Ss8FVUC",
+        "authors": "A Guo, N Jiang, Y Xu, T Xu, Y Wu, S Li, Z Gao",
+        "publication": "Geomatics, Natural Hazards and Risk 14 (1), 2279494, 2023",
+        "cited_by": {
+          "value": 7,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6756036578310475764",
+          "serpapi_link": "https://serpapi.com/search.json?cites=6756036578310475764&engine=google_scholar&hl=en",
+          "cites_id": "6756036578310475764"
+        },
+        "year": "2023"
+      },
+      {
+        "title": "PWV Retrieval Performance Evaluation for the Fresh BDS‐3 With Multisource Data",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:qjMakFHDy7sC",
+        "citation_id": "RlAdMyYAAAAJ:qjMakFHDy7sC",
+        "authors": "N Jiang, Z Gao, Y Wu, Y Xu, T Xu, S Li, A Guo",
+        "publication": "Earth and Space Science 10 (10), e2023EA002923, 2023",
+        "cited_by": {
+          "value": 9,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18131048314818256811",
+          "serpapi_link": "https://serpapi.com/search.json?cites=18131048314818256811&engine=google_scholar&hl=en",
+          "cites_id": "18131048314818256811"
+        },
+        "year": "2023"
+      },
+      {
+        "title": "A precipitation forecast model with a neural network and improved GPT3 model for Japan",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:9yKSN-GCB0IC",
+        "citation_id": "RlAdMyYAAAAJ:9yKSN-GCB0IC",
+        "authors": "S Li, N Jiang, T Xu, Y Xu, H Yang, Z Zhang, A Guo, Y Wu",
+        "publication": "Gps solutions 27 (4), 186, 2023",
+        "cited_by": {
+          "value": 31,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13013610905004639024",
+          "serpapi_link": "https://serpapi.com/search.json?cites=13013610905004639024&engine=google_scholar&hl=en",
+          "cites_id": "13013610905004639024"
+        },
+        "year": "2023"
+      },
+      {
+        "title": "Response Analysis on Multi‐Parameters in the 2022 Tonga Volcanic Eruption Using Satellite‐Ground Combined Data",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:d1gkVwhDpl0C",
+        "citation_id": "RlAdMyYAAAAJ:d1gkVwhDpl0C",
+        "authors": "N Jiang, Z Gao, Y Xu, T Xu, A Guo, Y Wu, S Li",
+        "publication": "Journal of Geophysical Research: Atmospheres 128 (17), e2023JD038839, 2023",
+        "cited_by": {
+          "value": 11,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12508658691770456144",
+          "serpapi_link": "https://serpapi.com/search.json?cites=12508658691770456144&engine=google_scholar&hl=en",
+          "cites_id": "12508658691770456144"
+        },
+        "year": "2023"
+      },
+      {
+        "title": "Improving the capability of water vapor retrieval from Landsat 8 using ensemble machine learning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:u-x6o8ySG0sC",
+        "citation_id": "RlAdMyYAAAAJ:u-x6o8ySG0sC",
+        "authors": "Y Wu, N Jiang, Y Xu, T Yeh, T Xu, Y Wang, W Su",
+        "publication": "International Journal of Applied Earth Observation and Geoinformation 122 …, 2023",
+        "cited_by": {
+          "value": 26,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9995273135053702983",
+          "serpapi_link": "https://serpapi.com/search.json?cites=9995273135053702983&engine=google_scholar&hl=en",
+          "cites_id": "9995273135053702983"
+        },
+        "year": "2023"
+      },
+      {
+        "title": "Analyzing correlations between GNSS retrieved precipitable water vapor and land surface temperature after earthquakes occurrence",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:Y0pCki6q_DkC",
+        "citation_id": "RlAdMyYAAAAJ:Y0pCki6q_DkC",
+        "authors": "A Guo, Y Xu, N Jiang, Y Wu, Z Gao, S Li, T Xu, L Bastos",
+        "publication": "Science of the Total Environment 872, 162225, 2023",
+        "cited_by": {
+          "value": 19,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2050523550875065254",
+          "serpapi_link": "https://serpapi.com/search.json?cites=2050523550875065254&engine=google_scholar&hl=en",
+          "cites_id": "2050523550875065254"
+        },
+        "year": "2023"
+      },
+      {
+        "title": "A spatial PWV retrieval model over land for GCOM-W/AMSR2 using neural network method: A case in the western united states",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RlAdMyYAAAAJ&sortby=pubdate&citation_for_view=RlAdMyYAAAAJ:u5HHmVD_uO8C",
+        "citation_id": "RlAdMyYAAAAJ:u5HHmVD_uO8C",
+        "authors": "Z Gao, N Jiang, Y Xu, T Xu, R Zeng, A Guo, Y Wu",
+        "publication": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote …, 2023",
+        "cited_by": {
+          "value": 11,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5663349281120552543",
+          "serpapi_link": "https://serpapi.com/search.json?cites=5663349281120552543&engine=google_scholar&hl=en",
+          "cites_id": "5663349281120552543"
+        },
+        "year": "2023"
+      }
+    ],
+    "cited_by": {
+      "table": [
+        {
+          "citations": {
+            "all": 159,
+            "since_2021": 159
+          }
+        },
+        {
+          "h_index": {
+            "all": 9,
+            "since_2021": 9
+          }
+        },
+        {
+          "i10_index": {
+            "all": 8,
+            "since_2021": 8
+          }
+        }
+      ],
+      "graph": [
+        {
+          "year": 2023,
+          "citations": 5
+        },
+        {
+          "year": 2024,
+          "citations": 49
+        },
+        {
+          "year": 2025,
+          "citations": 54
+        },
+        {
+          "year": 2026,
+          "citations": 50
+        }
+      ]
+    },
+    "public_access": {
+      "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=RlAdMyYAAAAJ",
+      "available": 7,
+      "not_available": 3
+    }
+  }
+}
